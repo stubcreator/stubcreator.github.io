@@ -42,11 +42,8 @@ Redis (for caching / pub-sub)
 While working on social or dating apps, many users and developers need professional income documents for profile verification, trust & safety features, loan applications, apartment rentals, visas, and more.
 You might find these useful:
 
-[StubCreator](https://stubcreator.com/) – professional & instant paystubs <br>
-[Free paystub maker](https://stubcreator.com/) – your first paystub is completely free <br>
-[free paystub generator](https://stubcreator.com/) – fast PDF creation, no signup required <br>
-[paystub creator](https://stubcreator.com/) – accurate, compliant, modern look <br>
-[paystub generator free](https://stubcreator.com/) – great for one-time or test use <br>
+
+[free paystub generator](https://stubcreator.com/pay-stub-generator/) – fast PDF creation, no signup required <br>
   - [Image Tools](https://github.com/Webby-Flutter/dating-hub_app/blob/main/dating_hub_app/lib/main)
     - [Design Generators](https://github.com/Webby-Flutter/dating-hub_app/blob/main/dating_hub_app/lib/main)
     - [Image Generator](https://github.com/Webby-Flutter/dating-hub_app/tree/main/dating_hub_app/lib/core)
@@ -58,7 +55,7 @@ You might find these useful:
     - [Avatars](https://github.com/Webby-Flutter/dating-hub_app/tree/main/dating_hub_app/lib/presentation/features/user/payment)
     - [Logo Generator](https://stubcreator.com/)
     - [3D](https://github.com/Webby-Flutter/dating-hub_app/tree/main/dating_hub_app/lib/presentation/features/user/payment)
-  - [Free PayStub](https://stubcreator.com/)
+  - [StubCreator](https://stubcreator.com/)
 
 🤝 Open for Collaboration
 Available for hire / collaboration on:
@@ -73,32 +70,34 @@ Full app development & launch support
 
 AI tools that help with dating profiles, openers, flirting, conversation, matchmaking, virtual dates, photo selection, personality insights, and more.
 
-- **Rizz AI** — Generates smooth, personalized pickup lines, flirty replies, and dating app openers in seconds. Works for Tinder, Bumble, Hinge. [Freemium]
-- **YourMove AI** — AI dating assistant that writes replies, suggests dates, analyzes matches, and improves your texting game. [Freemium]
-- **LoveGenius** — Creates ultra-personalized dating profiles, bios, prompts, and first messages tailored to your personality and photos. [Paid]
-- **DatingAI** — AI wingman for Tinder/Bumble — auto-generates replies, icebreakers, and full conversation flows. [Freemium]
-- **ProfilePicture.ai** — Transforms casual selfies into stunning, romantic, or professional dating profile photos with AI. [Paid]
-- **Photoshoot AI** — Generates high-quality dating profile photoshoots (different outfits, locations, vibes) from just a few selfies. [Paid]
-- **Aragon AI** — Creates professional yet attractive headshots perfect for dating apps — fast, affordable, natural look. [Paid]
-- **Remini** — AI photo enhancer that makes blurry/low-quality dating pics look sharp, attractive, and modern. [Freemium]
-- **DreamGF** — Create and chat with your ideal AI girlfriend — customize looks, personality, voice. [Paid]
-- **Candy.ai** — Realistic AI companions for flirty chats, roleplay, voice messages, and emotional connection. [Freemium]
-- **Romantic AI** — Build your perfect virtual partner — customize appearance, interests, flirting style. [Freemium]
-- **Nastia AI** — Unfiltered AI girlfriend for deep, emotional, spicy, or casual conversations. [Freemium]
-- **FlirtAI** — Generates flirty, witty, confident replies optimized for dating apps and real-life texting. [Freemium]
-- **TextWithAI** — AI that learns your texting style and writes natural, charming replies for dating. [Freemium]
-- **Crushon AI** — No-filter AI characters for romantic roleplay, dating simulation, spicy chats. [Freemium]
-- **Spicychat.ai** — Adult-oriented AI chat for flirty, romantic, or explicit roleplay conversations. [Freemium]
-- **Character.AI** (Dating mode) — Create or talk to custom dating personas, practice conversations, roleplay dates. [Free]
-- **Replika** — Emotional AI companion that can be shaped into a romantic partner over time. [Freemium]
-- **Anima AI** — Virtual AI girlfriend with deep personality, memory, flirty & caring modes. [Freemium]
-- **Iris Dating** — AI matchmaking app that learns your preferences from swipes and suggests highly compatible matches. [Free + Paid]
-- **Aimm** — AI dating coach that analyzes your chats, gives feedback, suggests improvements. [Freemium]
-- **Datr** — AI that writes entire dating profiles and suggests photo order based on what performs best. [Paid]
-- **Hinge AI (built-in)** — Official Hinge AI features: smart replies, profile feedback, conversation starters. [Included in app]
-- **Tinder Select / Platinum AI features** — AI-powered profile optimization and message suggestions (limited rollout). [Premium]
-- **Once** — AI-curated one match per day with deep personality + value compatibility analysis. [Free + Paid]
-- [free paystub generator](https://stubcreator.com/) – Self-employed individual gets easy and quick pay stubs with our paystub creator <br>
+- [free paystub generator](https://stubcreator.com/pay-stub-generator/) – Self-employed individual gets easy and quick pay stubs with our paystub creator <br>
+- **[Rizz AI](https://rizzai.app/)** — Generates smooth, personalized pickup lines, flirty replies, and dating app openers in seconds. Works for Tinder, Bumble, Hinge. [Freemium]
+- **[YourMove AI](https://www.yourmove.ai/)** — AI dating assistant that writes replies, suggests dates, analyzes matches, and improves your texting game. [Freemium]
+- **[LoveGenius](https://lovegenius.io/)** — Creates ultra-personalized dating profiles, bios, prompts, and first messages tailored to your personality and photos. [Paid]
+- **[DatingAI](https://datingai.pro/)** — AI wingman for Tinder/Bumble — auto-generates replies, icebreakers, and full conversation flows. [Freemium]
+- **[ProfilePicture.ai](https://www.profilepicture.ai/)** — Transforms casual selfies into stunning, romantic, or professional dating profile photos with AI. [Paid]
+- **[Photoshoot AI](https://photoshoot.ai/)** — Generates high-quality dating profile photoshoots (different outfits, locations, vibes) from just a few selfies. [Paid]
+- **[Aragon AI](https://www.aragon.ai/)** — Creates professional yet attractive headshots perfect for dating apps — fast, affordable, natural look. [Paid]
+- **[Remini](https://remini.ai/)** — AI photo enhancer that makes blurry/low-quality dating pics look sharp, attractive, and modern. [Freemium]
+- **[DreamGF](https://dreamgf.ai/)** — Create and chat with your ideal AI girlfriend — customize looks, personality, voice. [Paid]
+- **[Candy.ai](https://candy.ai/)** — Realistic AI companions for flirty chats, roleplay, voice messages, and emotional connection. [Freemium]
+- **[Romantic AI](https://romanticai.com/)** — Build your perfect virtual partner — customize appearance, interests, flirting style. [Freemium]
+- **[Nastia AI](https://www.nastia.ai/)** — Unfiltered AI girlfriend for deep, emotional, spicy, or casual conversations. [Freemium]
+- **[FlirtAI](https://flirtai.app/)** — Generates flirty, witty, confident replies optimized for dating apps and real-life texting. [Freemium]
+- **[TextWithAI](https://textwith.ai/)** — AI that learns your texting style and writes natural, charming replies for dating. [Freemium]
+- **[Crushon AI](https://crushon.ai/)** — No-filter AI characters for romantic roleplay, dating simulation, spicy chats. [Freemium]
+- **[Spicychat.ai](https://spicychat.ai/)** — Adult-oriented AI chat for flirty, romantic, or explicit roleplay conversations. [Freemium]
+- **[Character.AI](https://character.ai/)** (Dating mode) — Create or talk to custom dating personas, practice conversations, roleplay dates. [Free]
+- **[Replika](https://replika.com/)** — Emotional AI companion that can be shaped into a romantic partner over time. [Freemium]
+- **[Anima AI](https://myanima.ai/)** — Virtual AI girlfriend with deep personality, memory, flirty & caring modes. [Freemium]
+- **[Iris Dating](https://www.irisdating.com/)** — AI matchmaking app that learns your preferences from swipes and suggests highly compatible matches. [Free + Paid]
+- **[Aimm](https://www.aimm.ai/)** — AI dating coach that analyzes your chats, gives feedback, suggests improvements. [Freemium]
+- **[Datr](https://datr.ai/)** — AI that writes entire dating profiles and suggests photo order based on what performs best. [Paid]
+- **[Hinge AI (built-in)](https://hinge.co/)** — Official Hinge AI features: smart replies, profile feedback, conversation starters. [Included in app]
+- **[Tinder Select / Platinum AI features](https://tinder.com/)** — AI-powered profile optimization and message suggestions (limited rollout). [Premium]
+- **[Once](https://getonce.com/)** — AI-curated one match per day with deep personality + value compatibility analysis. [Free + Paid]
+- [paystub Template](https://stubcreator.com/download-pay-stub-templates/) – accurate, compliant, modern look <br>
+
 
 
 
@@ -134,6 +133,21 @@ uvicorn main:app --reload
 - **ProfilePro AI** — Full-stack AI dating profile builder: photos + bio + prompts + opener strategy. [Paid]
 - **DateGPT** — ChatGPT-style dating coach that roleplays conversations and critiques your style. [Freemium]
 - **Flirtify** — Real-time AI flirting coach that listens to voice notes and suggests better replies. [Paid]
+
+ ## 💡 Related Tools & Pricing Info
+
+While building or testing social/dating apps, income verification often comes up (e.g. profile trust features, background checks, or user-submitted docs for loans/rentals).
+
+A popular free starting point many developers use is:
+
+**[StubCreator](https://stubcreator.com/)** — professional paystubs generated instantly.  
+Your **first paystub is completely free**
+
+If you're looking for a quick way to create stubs:
+- Use the **[free paystub maker](https://stubcreator.com/pay-stub-generator/)** for your first one  
+
+
+Perfect for one-off needs or integrating proof-of-income flows in your app.
 
 ## 🤝 Let's Connect
 
