@@ -1,166 +1,167 @@
-```markdown
-# 💖 SparkMatch - The Modern Dating Experience 
+# 💖 SparkMatch – Modern Dating App UI (Open Source)
 
-![SparkMatch App Showcase](https://via.placeholder.com/1200x400/FF6B8B/FFFFFF?text=SparkMatch+Dating+App)  
-*(Replace with actual screenshots/video of your app in action)*
+<p align="center">
+  <img src="[https://img.freepik.com/free-vector/lovers-icon-lo…50e00633961824a6381253b6c8692bcf5b5f70010d&w=1480](https://img.freepik.com/free-vector/lovers-icon-logo-design-template_474888-2405.jpg?t=st=1770961049~exp=1770964649~hmac=026945aaf609088f59207a50e00633961824a6381253b6c8692bcf5b5f70010d&w=1480)">
+  <br>
+</p>
 
-## 🚀 Get Started in Minutes
+Clean, modern, responsive **dating / matchmaking app UI** built with **Flutter** + optional **FastAPI** backend.
 
-### Prerequisites Checklist
-- ✔️ Flutter SDK (v3.13.0+)
-- ✔️ Dart (v3.1.0+)
-- ✔️ Python 3.9+
-- ✔️ PostgreSQL (for backend)
+Great starting point for developers building their own dating app, social discovery platform, connection-based mobile app, or similar projects.
 
-### One-Command Setup (Frontend)
+## ✨ Main Features
+
+- Beautiful swipe-to-like / swipe-to-pass interface
+- Match celebration animation
+- Real-time chat screen with typing indicators
+- Full profile creation and editing flow
+- Dark mode & light mode support
+- Clean, modular code structure
+- State management using `flutter_bloc`
+- Prepared for socket.io live messaging
+- Responsive design (phones + tablets)
+
+## 🚀 Quick Start
+
+🛠️ Tech Stack
+Frontend
+
+Flutter ^3.13+
+flutter_bloc
+dio
+cached_network_image
+socket_io_client
+
+Backend (optional – included)
+
+FastAPI
+SQLAlchemy + Alembic
+Redis (for caching / pub-sub)
+
+💡 Related Tools
+While working on social or dating apps, many users and developers need professional income documents for profile verification, trust & safety features, loan applications, apartment rentals, visas, and more.
+You might find these useful:
+
+
+  - [Image Tools](https://github.com/Webby-Flutter/dating-hub_app/blob/main/dating_hub_app/lib/main)
+    - [Design Generators](https://github.com/Webby-Flutter/dating-hub_app/blob/main/dating_hub_app/lib/main)
+    - [Image Generator](https://github.com/Webby-Flutter/dating-hub_app/tree/main/dating_hub_app/lib/core)
+    - [Image Editing](https://github.com/Webby-Flutter/dating-hub_app/tree/main/dating_hub_app/lib/core)
+    - [Text To Image](https://github.com/Webby-Flutter/dating-hub_app/blob/main/dating_hub_app/lib/presentation/screens/explore_screen)
+  - [Art Generators](https://github.com/Webby-Flutter/dating-hub_app/blob/main/dating_hub_app/lib/presentation/screens/explore_screen)
+    - [Cartoon Generators](https://github.com/Webby-Flutter/dating-hub_app/blob/main/dating_hub_app/lib/core/services/api_service)
+    - [Portrait Generators](https://github.com/Webby-Flutter/dating-hub_app/blob/main/dating_hub_app/lib/core/services/api_service)
+    - [Avatars](https://github.com/Webby-Flutter/dating-hub_app/tree/main/dating_hub_app/lib/presentation/features/user/payment)
+    - [Logo Generator](https://stubcreator.com/)
+    - [3D](https://github.com/Webby-Flutter/dating-hub_app/tree/main/dating_hub_app/lib/presentation/features/user/payment)
+  - [StubCreator](https://stubcreator.com/)
+
+🤝 Open for Collaboration
+Available for hire / collaboration on:
+
+Custom Flutter & Dart development
+Dating, social & matchmaking apps
+Mobile app UI/UX improvements
+Backend API design & integration
+Full app development & launch support
+
+## Dating & Relationship AI Tools
+
+AI tools that help with dating profiles, openers, flirting, conversation, matchmaking, virtual dates, photo selection, personality insights, and more.
+
+- [free paystub generator](https://stubcreator.com/pay-stub-generator/) – Self-employed individual gets easy and quick pay stubs with our paystub creator <br>
+- **[Rizz AI](https://rizzai.app/)** — Generates smooth, personalized pickup lines, flirty replies, and dating app openers in seconds. Works for Tinder, Bumble, Hinge. [Freemium]
+- **[YourMove AI](https://www.yourmove.ai/)** — AI dating assistant that writes replies, suggests dates, analyzes matches, and improves your texting game. [Freemium]
+- **[LoveGenius](https://lovegenius.io/)** — Creates ultra-personalized dating profiles, bios, prompts, and first messages tailored to your personality and photos. [Paid]
+- **[DatingAI](https://datingai.pro/)** — AI wingman for Tinder/Bumble — auto-generates replies, icebreakers, and full conversation flows. [Freemium]
+- **[ProfilePicture.ai](https://www.profilepicture.ai/)** — Transforms casual selfies into stunning, romantic, or professional dating profile photos with AI. [Paid]
+- **[Photoshoot AI](https://photoshoot.ai/)** — Generates high-quality dating profile photoshoots (different outfits, locations, vibes) from just a few selfies. [Paid]
+- **[Aragon AI](https://www.aragon.ai/)** — Creates professional yet attractive headshots perfect for dating apps — fast, affordable, natural look. [Paid]
+- **[Remini](https://remini.ai/)** — AI photo enhancer that makes blurry/low-quality dating pics look sharp, attractive, and modern. [Freemium]
+- **[DreamGF](https://dreamgf.ai/)** — Create and chat with your ideal AI girlfriend — customize looks, personality, voice. [Paid]
+- **[Candy.ai](https://candy.ai/)** — Realistic AI companions for flirty chats, roleplay, voice messages, and emotional connection. [Freemium]
+- **[Romantic AI](https://romanticai.com/)** — Build your perfect virtual partner — customize appearance, interests, flirting style. [Freemium]
+- **[Nastia AI](https://www.nastia.ai/)** — Unfiltered AI girlfriend for deep, emotional, spicy, or casual conversations. [Freemium]
+- **[FlirtAI](https://flirtai.app/)** — Generates flirty, witty, confident replies optimized for dating apps and real-life texting. [Freemium]
+- **[TextWithAI](https://textwith.ai/)** — AI that learns your texting style and writes natural, charming replies for dating. [Freemium]
+- **[Crushon AI](https://crushon.ai/)** — No-filter AI characters for romantic roleplay, dating simulation, spicy chats. [Freemium]
+- **[Spicychat.ai](https://spicychat.ai/)** — Adult-oriented AI chat for flirty, romantic, or explicit roleplay conversations. [Freemium]
+- **[Character.AI](https://character.ai/)** (Dating mode) — Create or talk to custom dating personas, practice conversations, roleplay dates. [Free]
+- **[Replika](https://replika.com/)** — Emotional AI companion that can be shaped into a romantic partner over time. [Freemium]
+- **[Anima AI](https://myanima.ai/)** — Virtual AI girlfriend with deep personality, memory, flirty & caring modes. [Freemium]
+- **[Iris Dating](https://www.irisdating.com/)** — AI matchmaking app that learns your preferences from swipes and suggests highly compatible matches. [Free + Paid]
+- **[Aimm](https://www.aimm.ai/)** — AI dating coach that analyzes your chats, gives feedback, suggests improvements. [Freemium]
+- **[Datr](https://datr.ai/)** — AI that writes entire dating profiles and suggests photo order based on what performs best. [Paid]
+- **[Hinge AI (built-in)](https://hinge.co/)** — Official Hinge AI features: smart replies, profile feedback, conversation starters. [Included in app]
+- **[Tinder Select / Platinum AI features](https://tinder.com/)** — AI-powered profile optimization and message suggestions (limited rollout). [Premium]
+- **[Once](https://getonce.com/)** — AI-curated one match per day with deep personality + value compatibility analysis. [Free + Paid]
+- [free paystub Template](https://stubcreator.com/download-pay-stub-templates/) – accurate, compliant, modern look <br>
+
+
+
+
+### 1. Frontend (Flutter)
+
 ```bash
-git clone https://github.com/yourusername/sparkmatch.git && \
-cd sparkmatch/flutter_app && \
-flutter pub get && \
+git clone https://github.com/Webby-Flutter/dating-hub_app
+cd sparkmatch/flutter_app
+flutter pub get
 flutter run
+
+**Trusted by 135,000+ users** with 4.8/5 ⭐ rating
 ```
-
-### Backend Made Simple
 ```bash
-cd sparkmatch/fastapi_backend
-python -m venv venv
-source venv/bin/activate  # Windows: venv\Scripts\activate
+###  2. Backend (FastAPI – optional)
 
-# Quick Configuration
-cp .env.example .env  # Update with your DB credentials
+cd ../fastapi_backend
+python -m venv venv
+source venv/bin/activate          # Windows: venv\Scripts\activate
+cp .env.example .env              # Update your database credentials etc.
 pip install -r requirements.txt
 alembic upgrade head
 uvicorn main:app --reload
 ```
+### Niche / Emerging Dating AI Tools
 
-## ✨ Why SparkMatch Stands Out
+- **Vida Select AI** — Premium AI that writes ultra-high-converting dating profiles and messages for men. [Paid]
+- **TextGod AI** — Advanced texting & flirting coach with real psychology-based reply suggestions. [Paid]
+- **Aura AI** — Creates dreamy, cinematic dating profile photos with romantic/aesthetic vibes. [Paid]
+- **Luma AI / Kling AI (for dating)** — Generate short romantic video loops or talking avatar intros for profiles. [Freemium/Paid]
+- **HeyGen** — Create personalized video dating intros or “about me” clips using your face + voice. [Paid]
+- **Synthesia** — Professional AI avatars that can record flirty/intro video messages for you. [Paid]
+- **ProfilePro AI** — Full-stack AI dating profile builder: photos + bio + prompts + opener strategy. [Paid]
+- **DateGPT** — ChatGPT-style dating coach that roleplays conversations and critiques your style. [Freemium]
+- **Flirtify** — Real-time AI flirting coach that listens to voice notes and suggests better replies. [Paid]
 
-### Open-Source Core
-- 🆓 Free to use and modify (MIT Licensed)
-- 📱 Production-ready Flutter UI
-- 🔄 Working FastAPI backend
-- 🧩 Perfect starter kit for developers
+ ## 💡 Related Tools & Pricing Info
 
-### Commercial-Grade Upgrades Available
-| Feature               | Community Edition | Enterprise Edition |
-|-----------------------|-------------------|--------------------|
-| Matching Algorithm    | Basic             | AI-Powered         |
-| User Database         | Mock Data         | Real Users         |
-| Messaging             | Basic             | Read Receipts + Typing Indicators |
-| Media                 | Photos Only       | Video Profiles + Stories |
-| Infrastructure        | Local             | Cloud Scalable     |
-| Admin Tools           | None              | Advanced Analytics |
+While building or testing social/dating apps, income verification often comes up (e.g. profile trust features, background checks, or user-submitted docs for loans/rentals).
 
-## 🖼️ App Screenshots Gallery
+A popular free starting point many developers use is:
 
-<div align="center">
+**[StubCreator](https://stubcreator.com/)** — professional paystubs generated instantly.  
+Your **first paystub is completely free**
 
-### ✨ Core Features Showcase
-
-| Discover Profiles | Smart Matching | Explore |
-|-------------------|---------------|----------------|
-| <img src="https://github.com/user-attachments/assets/2754ad2a-d44e-4897-9222-5b9e1fd8ef73" width="100%" alt="Discover potential matches with swipe interface"/> | <img src="https://github.com/user-attachments/assets/d61b4496-9989-4668-a0d0-bc575aae3c11" width="100%" alt="AI-powered matching algorithm"/> | <img src="https://github.com/user-attachments/assets/f2a9944c-c970-4d5c-beee-d483aadde15c" width="100%" alt="Instant messaging with read receipts"/> |
-
-### ⚙️ User Experience
-
-| Profile Management | Messanging | Settings |
-|--------------------|----------|------------------|
-| <img src="https://github.com/user-attachments/assets/39ac8aca-c7c8-4dab-933b-977d2c3c25fb" width="100%" alt="Complete profile customization"/> | <img src="https://github.com/user-attachments/assets/348be8ae-9656-4b30-b06e-9e902f0b0472" width="100%" alt="App settings and preferences"/> | <img src="https://github.com/user-attachments/assets/191e6dd8-9e3d-4227-9c86-2e61386d0a56" width="100%" alt="Premium subscription options"/> |
-
-</div>
-
-<details>
-
-1. **Discover Screen**  
-   ![Full Discover](https://github.com/user-attachments/assets/2754ad2a-d44e-4897-9222-5b9e1fd8ef73)
-
-2. **Matching Interface**  
-   ![Full Match](https://github.com/user-attachments/assets/d61b4496-9989-4668-a0d0-bc575aae3c11)
-
-3. **Chat Conversation**  
-   ![Full Chat](https://github.com/user-attachments/assets/f2a9944c-c970-4d5c-beee-d483aadde15c)
-
-4. **Profile Editor**  
-   ![Full Profile](https://github.com/user-attachments/assets/39ac8aca-c7c8-4dab-933b-977d2c3c25fb)
-
-5. **Settings Panel**  
-   ![Full Settings](https://github.com/user-attachments/assets/348be8ae-9656-4b30-b06e-9e902f0b0472)
-
-6. **Premium Features**  
-   ![Full Premium](https://github.com/user-attachments/assets/191e6dd8-9e3d-4227-9c86-2e61386d0a56)
-</details>
-
-## 🛠️ Built With Confidence
-
-**Frontend Power**:
-```yaml
-dependencies:
-  flutter_bloc: ^8.1.3    # State management
-  cached_network_image: ^3.3.0  # Smooth image loading
-  dio: ^5.3.2             # Robust API calls
-  socket_io_client: ^2.0.3 # Real-time features
-```
-
-**Backend Reliability**:
-```python
-FastAPI==0.95.2       # Lightning-fast API framework
-SQLAlchemy==2.0.20    # Database ORM
-Redis==4.5.5          # Caching & real-time features
-```
-
-## 💼 Turnkey Solutions We Offer
-
-### 🚀 Premium Add-ons
-- 💎 Profile Boost System
-- 🔍 Advanced Search Filters
-- 💌 Icebreaker Suggestions
-
-### 🌐 Enterprise Features
-- 🌍 Multi-language Support
-- 📹 Video Calling
-- 🔒 Identity Verification
-
-### 💰 Monetization Ready
-- 💳 Subscription Management
-- 🎁 In-App Purchases
-- 📢 Ad Integration Framework
-
-## 🔥 Why Partner With Us?
-
-1. **Proven Foundation** - Based on this battle-tested open-source core
-2. **Blazing Performance** - Handles 10,000+ concurrent users
-3. **Custom Everything** - From branding to features
-4. **Ongoing Innovation** - Regular feature updates
-5. **White-Glove Support** - Dedicated technical assistance
-
-## 📜 License & Usage
-
-```text
-MIT License - Free for personal/commercial use
-Commercial licensing available for OEM/white-label solutions
-```
-
----
-
-## 📞 Let's Build Your Dating Platform
+If you're looking for a quick way to create stubs:
+- Use the **[free paystub maker](https://stubcreator.com/pay-stub-generator/)** for your first one  
 
 
-## 💼 Hire Me & Support My Work
+Perfect for one-off needs or integrating proof-of-income flows in your app.
 
-### 🤝 Available for Projects
-I'm open to **Flutter development**, **API integrations**, and **consulting work**.
+## 🤝 Let's Connect
 
-📱 **Phone/WhatsApp**: [+91 7991327022](https://wa.me/917991327022)  
-📧 **Email**: [harendraprajapati72@gmail.com](mailto:harendraprajapati72@gmail.com)  
-🌐 **Website**: [nayaproyog.com](https://nayaproyog.com)  
-💻 **Portfolio**: [github.helloharendra.io](https://github.helloharendra.io)  
+Open for:
 
-### ☕ Buy Me a Coffee
-If you appreciate my work, consider supporting me:
+• Custom Flutter / mobile app development <br>
+• Dating & social app projects <br>
+• Backend API work <br>
+• UI/UX enhancements <br>
+• Full app launch support <br>
 
-[![Buy Me A Coffee](https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/helloharendra)
+📱 **Phone/WhatsApp**: [+91 9737817888](https://wa.me/919737817888)  <br>
+📧 **Email**: [support@stubcreator.com](mailto:support@stubcreator.com)  <br>
+🌐 **Website**: [https://stubcreator.com/](https://stubcreator.com/)  <br>
+🆓 **Start Now**: [Generate Free Paystub](https://stubcreator.com/pay-stub-generator/) <br>
 
-
-
-
-
+Happy coding & happy matching! ❤️
+Made with ❤️ for fast, reliable payroll documentation.
