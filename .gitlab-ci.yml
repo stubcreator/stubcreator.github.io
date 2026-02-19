@@ -1,0 +1,10 @@
+pages:
+  stage: deploy
+  script:
+    - echo "Checking for public directory..."
+    - ls -R public/
+  artifacts:
+    paths:
+      - public
+  only:
+    - main
