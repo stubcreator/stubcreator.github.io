@@ -1,0 +1,30 @@
+# Use a Docker image that already has Flutter installed
+image: ghcr.io/cirruslabs/flutter:stable
+
+stages:
+  - build
+  - deploy
+
+# This job builds your Flutter web app
+build_web:
+  stage: build
+  script:
+    - flutter pub get
+    - flutter build web --release --base-href "/"
+  artifacts:
+    paths:
+      - build/web/
+
+# This job takes the build and puts it in the 'public' folder for GitLab Pages
+pages:
+  stage: deploy
+  dependencies:
+    - build_web
+  script:
+    - mkdir -p public
+    - cp -r build/web/* public/
+  artifacts:
+    paths:
+      - public
+  only:
+    - main
