@@ -36,7 +36,7 @@ Backend (optional – included)
 
 FastAPI
 SQLAlchemy + Alembic
-Redis (for caching / pub-sub)
+Redis (for caching/pub-sub)
 
 💡 Related Tools
 While working on social or dating apps, many users and developers need professional income documents for profile verification, trust & safety features, loan applications, apartment rentals, visas, and more.
