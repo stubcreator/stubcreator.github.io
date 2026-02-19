@@ -1,16 +1,8 @@
 pages:
   stage: deploy
   script:
-    # 1. Create a fresh public folder
-    - rm -rf public
-    - mkdir public
-    
-    # 2. Copy your built files INTO that folder
-    # This tries build/web first, then falls back to your web folder
-    - cp -r build/web/* public/ || cp -r web/* public/ || echo "No files found"
-    
-    # 3. List the files so we can see them in the log (for debugging)
-    - ls -la public
+    - echo "Checking for public directory..."
+    - ls -R public/
   artifacts:
     paths:
       - public
