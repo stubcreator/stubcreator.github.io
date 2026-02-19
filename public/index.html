@@ -13,8 +13,10 @@
     window.$docsify = {
       name: 'SparkMatch',
       repo: 'https://gitlab.com/freestubcreator/freestubcreator.gitlab.io',
-      // This tells Docsify to load your README.md from the root
-      homepage: 'README.md' 
+      // This forces Docsify to look at the root of your project
+      basePath: 'https://gitlab.com/freestubcreator/freestubcreator.gitlab.io/-/raw/main/',
+      homepage: 'README.md',
+      loadSidebar: false
     };
   </script>
   <script src="//cdn.jsdelivr.net/npm/docsify@4"></script>
